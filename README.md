@@ -1,11 +1,12 @@
 ## 👋 Hi there, I'm Kesley Rainery.
-
-<div>          
+ 
+### :chart_with_downwards_trend: Git Stats
+<div>
           <img alt="My stats" height="180em"  src="https://github-readme-stats.vercel.app/api?username=BerserKess&show_icons=true&theme=nightowl"/>
           <img alt="Top langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserKess&layout=compact&langs_count-&theme=nightowl"/> 
 </div>
 
-
+### :memo: Learning
 <div style="display: inline_block"><br>
           <img  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
           <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
